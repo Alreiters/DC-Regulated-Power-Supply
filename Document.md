@@ -1,4 +1,4 @@
-# DC-Regulated-Power-Supply
+# DC Regulated Power Supply
 
 Electronic Internship Program
 
